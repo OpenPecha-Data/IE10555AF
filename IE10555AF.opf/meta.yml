@@ -1,0 +1,164 @@
+id: IE10555AF
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-17T11:46:52.940921'
+last_modified: '2022-06-17T11:46:52.940930'
+parser: null
+source_metadata:
+  title: Dharma Protectors Series
+  language: fr
+  description: 'The following texts are now available as part of our Dharma Protectors
+    (dharmapāla; Tib. chos skyong) series:'
+  volume:
+    f8166:
+      title: Brief Dharmapālas Offering
+      base_file: f8166.txt
+      order: 1
+      parent: General
+    f2021:
+      title: Brief Protectors Practice
+      base_file: f2021.txt
+      order: 2
+      parent: General
+    f9FCE:
+      title: Expeditious Activity Torma Offering
+      base_file: f9FCE.txt
+      order: 3
+      parent: General
+    f0EA9:
+      title: Wayfaring Offering
+      base_file: f0EA9.txt
+      order: 4
+      parent: General
+    fC684:
+      title: A Practice of Fulfilment and Confession to an Ocean of Oath-bound Protectors
+      base_file: fC684.txt
+      order: 5
+      parent: General
+    f21CA:
+      title: 'Damchen Chitor: A Brief Practice of Torma Offering to the Oath-Bound
+        Guardians'
+      base_file: f21CA.txt
+      order: 6
+      parent: General
+    f0238:
+      title: Offering Prayer to Changshönma, Protectress Riding upon a Wolf
+      base_file: f0238.txt
+      order: 7
+      parent: Changshönma
+    f377E:
+      title: Brief Offering Prayer to Durtrö Lhamo, Mistress of the Charnel Ground
+      base_file: f377E.txt
+      order: 8
+      parent: Durtrö Lhamo
+    fB747:
+      title: Brief Offering Prayer to Durtrö Lhamo, Mistress of the Charnel Ground
+      base_file: fB747.txt
+      order: 9
+      parent: Durtrö Lhamo
+    f4354:
+      title: Golden Drink (Serkyem) and Torma Offering
+      base_file: f4354.txt
+      order: 10
+      parent: Eight Classes
+    fCF5C:
+      title: Restorative Offering to the Eight Classes
+      base_file: fCF5C.txt
+      order: 11
+      parent: Eight Classes
+    f3688:
+      title: Brief Offering Prayer to Ekajaṭī
+      base_file: f3688.txt
+      order: 12
+      parent: Ekajaṭī
+    fA3D7:
+      title: Offering to the Five Mentsün Sisters, Guardians of the Earth
+      base_file: fA3D7.txt
+      order: 13
+      parent: Five Mentsün Sisters
+    f04D0:
+      title: Petitionary Offering to Norbu Dradül Tsal
+      base_file: f04D0.txt
+      order: 14
+      parent: Gesar
+    fAB95:
+      title: Brief Offering Prayer to Gesar
+      base_file: fAB95.txt
+      order: 15
+      parent: Gesar
+    f52DC:
+      title: Brief Offering Prayer to Gesar
+      base_file: f52DC.txt
+      order: 16
+      parent: Gesar
+    f17B4:
+      title: 'Sweet Melody to Delight the Glorious Deity: In Praise of Śrī Kālīdevī'
+      base_file: f17B4.txt
+      order: 17
+      parent: Kālīdevī
+    f4054:
+      title: 'Swift Enlightened Activity: A Concise Ceremony of Offering and Prayer
+        to Mahākāla and Consort'
+      base_file: f4054.txt
+      order: 18
+      parent: Mahākāla
+    f1278:
+      title: 'The Fulfilment of All Wishes: Prayer and Entrustment of Activity to
+        the Glorious Guru Mahākāla Pañjaranātha'
+      base_file: f1278.txt
+      order: 19
+      parent: Mahākāla
+    f21C3:
+      title: 'Bestower of Supreme Accomplishment: A Torma Offering to Mahākāla'
+      base_file: f21C3.txt
+      order: 20
+      parent: Mahākāla
+    f29EE:
+      title: 'Pacifying the Turmoil of the Mamos: A Concise Liturgy'
+      base_file: f29EE.txt
+      order: 21
+      parent: Pacifying the Turmoil of the Mamos
+    f1CE1:
+      title: Brief Prayer for Pacifying the Turmoil of the Mamos
+      base_file: f1CE1.txt
+      order: 22
+      parent: Pacifying the Turmoil of the Mamos
+    f2E65:
+      title: A Brief Petitionary Offering to the Mātṛkā Pukkasī, Local Protectress
+        of the Jarung Kashor Stūpa
+      base_file: f2E65.txt
+      order: 23
+      parent: Pukkasī
+    f0934:
+      title: Brief Offering Prayer to Za Rāhula
+      base_file: f0934.txt
+      order: 24
+      parent: Rāhula
+    fC524:
+      title: Serkyem (Golden Libation) Offering to the Guardians of the Tradition
+      base_file: fC524.txt
+      order: 25
+      parent: Serkyem
+    f36B3:
+      title: Brief Offering Prayer to Tsiu Marpo
+      base_file: f36B3.txt
+      order: 26
+      parent: Tsiu Marpo
+    f4467:
+      title: Brief Offering Prayer to the Oath-Bound Vajrasādhu
+      base_file: f4467.txt
+      order: 27
+      parent: Vajrasādhu
+    fFF05:
+      title: Yarlha Shampo Sang Offering
+      base_file: fFF05.txt
+      order: 28
+      parent: Yarlha Shampo
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
